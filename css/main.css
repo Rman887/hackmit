@@ -1,0 +1,31 @@
+body {
+    position: absolute;
+    font-family: "Proxima Nova", "Montserrat", sans-serif;
+    background-color: #b5f1ff;
+    display: block;
+    margin: auto;
+}
+h1, h2 {
+    position: absolute;
+    left: 10px;
+    font-size: 1.3em;
+    font-weight: 100;
+    text-align: center;
+}
+h2 {
+    top: 30px;
+    font-size: 1em;
+}
+.accident {
+    fill: #ff4b2b;
+    stroke: #a12913;
+    stroke-width: 0.5;
+}
+.hover {
+    fill: #b82507;
+    stroke: #541509;
+}
+
+.mapSVG {
+    background-color: #b5f1ff;
+}
